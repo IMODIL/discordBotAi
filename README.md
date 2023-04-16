@@ -1,5 +1,5 @@
 # discordBotAi
- 
+
 Support SlashCommand
 ====================
 - With chatGpt3.0
